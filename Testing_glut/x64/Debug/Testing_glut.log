@@ -1,0 +1,8 @@
+﻿  PolygonObserver.cpp
+D:\Uni\Term 6\Programing_KG\Testing_glut\Testing_glut\PolygonObserver.cpp(11,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Uni\Term 6\Programing_KG\Testing_glut\Testing_glut\PolygonObserver.cpp(16,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Testing_glut.cpp
+D:\Uni\Term 6\Programing_KG\Testing_glut\Testing_glut\Testing_glut.cpp(11,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Uni\Term 6\Programing_KG\Testing_glut\Testing_glut\Testing_glut.cpp(11,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Generating Code...
+  Testing_glut.vcxproj -> D:\Uni\Term 6\Programing_KG\Testing_glut\x64\Debug\Testing_glut.exe
